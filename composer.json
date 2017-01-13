@@ -14,5 +14,10 @@
             "email": "raphndwi@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Rndwiga\\Cashflow\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
