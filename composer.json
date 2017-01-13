@@ -1,0 +1,18 @@
+{
+    "name": "rndwiga/cashflow-model",
+    "description": "This package is used to support cashflow model of agriculture products",
+    "type": "library",
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "php": ">=5.4",
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphael Ndwiga",
+            "email": "raphndwi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
